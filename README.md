@@ -1,2 +1,3 @@
-# forge_binder
-Collection of modeling Jupyter Notebooks
+# ForgeNotebook
+
+Setup for Jupyter notebook based openscad experimentation

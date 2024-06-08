@@ -1,0 +1,5 @@
+jupyterlab
+solidpython
+viewscad
+ipython-autotime
+pandas
